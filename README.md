@@ -1,4 +1,4 @@
-** This is my own fork of DSTools by Katalash. My aim is to try to expand it and improve upon what's already there for the sole purpose of improving my understanding of Dark Souls modding (and maybe it'll be of some use to people along the way.) **
+**This is my own fork of DSTools by Katalash. My aim is to try to expand it and improve upon what's already there for the sole purpose of improving my understanding of Dark Souls modding (and maybe it'll be of some use to people along the way.)**
 
 # Welcome to DSTools
 DSTools is a Unity Editor plugin that aims to create an integrated modding solution for Dark Souls 1 (currently only Prepare to Die Edition is supported), Dark Souls 3, Bloodborne, and Sekiro. Currently the tools support editing existing maps for the games and allow you to move enemies and objects around, but aims to eventually allow the creation of completely new levels.
